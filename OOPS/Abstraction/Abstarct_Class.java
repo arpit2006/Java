@@ -15,11 +15,13 @@ class base1 extends base{
          System.out.println("Good Morning..! ");
      }
 }
-abstract class base2 extends base{
+ abstract class base2 extends base{
      //now here we are inherting base class and base class is abstract so we have to make this class also abstract
      public void th(){
          System.out.println("Good Nightt");
      }
+
+
 }
 public class Abstarct_Class {
     public static void main(String[] args) {

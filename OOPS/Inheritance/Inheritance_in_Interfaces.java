@@ -6,7 +6,6 @@ interface sample{
 interface childSample extends sample{
     //class can be implemented but class can't be extended
     //the way of inheriting interface is right
-
     void m3();
     void m4();
 }
