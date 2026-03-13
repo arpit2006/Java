@@ -1,4 +1,4 @@
-# Java--College
+# Java
 # ☕ Java Core & OOP Learning Journey
 
 Welcome to my Java learning repository! 🚀  
